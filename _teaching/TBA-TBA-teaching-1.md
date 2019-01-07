@@ -2,9 +2,9 @@
 title: "Coming soon"
 collection: teaching
 type: "TBA"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/TBA-TBA-teaching-1
 venue: "TBA"
-date: 2019-01-01
+date: TBA
 location: "TBA"
 ---
 
