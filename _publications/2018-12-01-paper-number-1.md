@@ -1,7 +1,7 @@
 ---
 title: "The human visual system estimates angle features in an internal reference frame: A computational and psychophysical study."
 collection: publications
-permalink: /publication/2018-12-paper-number-1
+permalink: /publication/2018-12-01-paper-number-1
 excerpt: ''
 date: 2018-12-01
 venue: 'Journal of Vision'
