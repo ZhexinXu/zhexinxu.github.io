@@ -14,7 +14,7 @@ Education
 * Ph.D in Brain and Cognitive Sciences, University of Rochester, 2023 (expected)
 * M.S. in Cognitive Neuroscience, East China Normal University, 2018
 * B.E. in Mechanical Engineering, Tongji University, 2015
- 
+
 Skills
 ======
 * MATLAB/Simulink
