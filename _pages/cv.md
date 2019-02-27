@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,17 +17,16 @@ Education
 
 Skills
 ======
-* MATLAB/Simulink
-* Python
-* Virtual reality
-  * Unity3D
-  * Unreal Engine
-  * HTC Vive
-  * Oculus Rift
-* OpenGL
-* C#
-* C/C++
-* AutoCAD
+* MATLAB/Simulink (proficiency)
+* Python (familiar)
+* Virtual reality (familiar)
+  * Unity3D, Unreal Engine
+  * HTC Vive, Oculus Rift
+* OpenGL (familiar)
+* C# (familiar)
+* C/C++ (basic)
+* Lisp (basic)
+* AutoCAD (familiar)
 
 Publications
 ======
@@ -43,10 +42,11 @@ Conferences
 
 Honors and Awards
 ======
+* NSF Research Traineeship Data-Enabled Science and Engineering (NRT-DESE), University of Rochester, 2018-2019
 * The National Scholarship for Graduate Students, Ministry of Education of China, 2017
 
 Other Activities
 ======
-* Computational and Cognitive Neuroscience (CCN) Summer School, New York University Shanghai, Shanghai, China, 2017
+* Computational and Cognitive Neuroscience (CCN) Summer School, New York University Shanghai, China, 2017
 * IEEE CIS Summer School on Neuromorphic and Cyborg Intelligent Systems, Zhejiang University, Hangzhou, China, 2015
 
