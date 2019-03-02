@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Brain and Cognitive Sciences, University of Rochester, 2023 (expected)
+* Ph.D student in Brain and Cognitive Sciences, University of Rochester, 2023 (expected)
 * M.S. in Cognitive Neuroscience, East China Normal University, 2018
 * B.E. in Mechanical Engineering, Tongji University, 2015
+
+Research Interests
+======
+Signal processing in the visual system (3D vision, multisensory integration, sensorimotor control, perceptual inference and decision making), Computational modeling
 
 Publications
 ======
@@ -41,14 +45,14 @@ Technical Skills
 ======
 * Data analysis and visualization, model fitting and simulation
   * MATLAB/Simulink (Expert), Python (Intermediate)
-* Visual stimuli generation
-  * PsychToolbox (Expert), Unity3D (Expert), OpenGL (Intermediate), Unreal Engine (Intermediate), VR headset (HTC Vive & Oculus Rift, Intermediate)
+* Visual stimuli generation and experiment implementation
+  * PsychToolbox (Expert), Unity (Expert), OpenGL (Intermediate), UnrealEngine (Intermediate), VR (HTC Vive & Oculus Rift, Intermediate)
 * Other programming languages
   * C# (Intermediate), C/C++ (Intermediate), Lisp (Novice)
 * Graphic tools and computer-aided design
-  * AutoCAD (Expert), SolidWorks (Intermediate), 3ds Max (Novice), Adobe Illustrator (Intermediate)
+  * AutoCAD (Expert), SolidWorks (Expert), Adobe Illustrator (Intermediate), 3ds Max (Novice)
 
 Languages
 =======
-* Chinese (Native), English (Fluent)
+* Chinese (Native), English (Fluent), Japanese (Basic)
 
