@@ -17,7 +17,7 @@ Education
 
 Research Interests
 ======
-Signal processing in the visual system (3D vision, multisensory integration, sensorimotor control, perceptual inference and decision making), Computational modeling
+* Signal processing in the visual system (3D vision, multisensory integration, sensorimotor control, perceptual inference and decision making), Computational modeling
 
 Publications
 ======
