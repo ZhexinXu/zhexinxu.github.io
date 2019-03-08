@@ -44,13 +44,13 @@ Other Activities
 Technical Skills
 ======
 * Data analysis and visualization, model fitting and simulation
-  * MATLAB/Simulink (Expert), Python (Intermediate)
+  * MATLAB/Simulink (Advanced), Python (Intermediate)
 * Visual stimuli generation and experiment implementation
-  * PsychToolbox (Expert), Unity (Expert), OpenGL (Intermediate), UnrealEngine (Intermediate), VR (HTC Vive & Oculus Rift, Intermediate)
+  * PsychToolbox (Advanced), Unity (Advanced), OpenGL (Intermediate), Unreal Engine (Intermediate), VR headset (Vive & Rift, Intermediate)
 * Other programming languages
   * C# (Intermediate), C/C++ (Intermediate), Lisp (Novice)
 * Graphic tools and computer-aided design
-  * AutoCAD (Expert), SolidWorks (Expert), Adobe Illustrator (Intermediate), 3ds Max (Novice)
+  * AutoCAD (Advanced), SolidWorks (Advanced), Illustrator (Intermediate)
 
 Languages
 =======
