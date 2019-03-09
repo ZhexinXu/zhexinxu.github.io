@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhexin (Brian) Xu / Home"
+title                    : "Brian Xu / Home"
 title_separator          : "-"
-name                     : &name "Zhexin Brian Xu"
+name                     : &name "Brian Xu"
 description              : &description "personal description"
 url                      : https://zhexinxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhexin Brian Xu"
+  name             : "Brian Xu"
   avatar           : "profile.jpg"
   bio              : "A PhD student in Brain and Cognitive Sciences"
   location         : 
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhexinXu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : https://orcid.org/0000-0003-3165-5416
+  orcid            : # https://orcid.org/0000-0003-3165-5416
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
