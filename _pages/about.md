@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a second-year PhD student in Brain and Congitive Sciences at U of Rochester. My research focuses on computational and neurophysiological approaches to study visual information processing in the brain. Check out other pages for more info!
+Hi there! I'm a second-year PhD student in Brain and Cognitive Sciences at U of Rochester. My research focuses on using computational and neurophysiological approaches to study visual information processing in the brain. Check out other pages for more info!
