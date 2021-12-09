@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* PhD, Brain & Cognitive Sciences (minor in Computer Science), University of Rochester, 2023 (expected)
+* MA, Brain & Cognitive Sciences, University of Rochester, 2021
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -21,7 +26,7 @@ Conferences
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching experiences
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
