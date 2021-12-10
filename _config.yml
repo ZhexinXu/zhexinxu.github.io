@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhexin (Brian) Xu / Home"
+title                    : "Zhexin Brian Xu / Home"
 title_separator          : "-"
-name                     : &name "Zhexin (Brian) Xu"
+name                     : &name "Zhexin Brian Xu"
 description              : &description "personal description"
 url                      : https://zhexinxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-26K20H6KDL"
 
 
 # Site Author
