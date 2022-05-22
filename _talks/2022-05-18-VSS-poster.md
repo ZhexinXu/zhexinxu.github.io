@@ -2,7 +2,7 @@
 title: "Interpretation of viewing context alters object motion perception"
 collection: talks
 type: "Poster"
-permalink: /talks/2022-05-18_VSS
+permalink: /talks/2022-05-18-VSS-poster
 venue: "Vision Sciences Society"
 date: 2022-05-18
 location: "St. Pete Beach, FL"
