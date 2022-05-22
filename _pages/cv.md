@@ -8,10 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+Work Experience
+======
+* Senior Data Scientist Intern, IBM, May-August 2022
 
 Education
 ======
-* PhD, Brain & Cognitive Sciences (minor in Computer Science), University of Rochester, 2023 (expected)
+* PhD, Brain & Cognitive Sciences, jointly in Computer Science, University of Rochester, 2023 (expected)
 * MA, Brain & Cognitive Sciences, University of Rochester, 2021
 
 Publications
