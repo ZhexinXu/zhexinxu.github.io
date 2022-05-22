@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Work Experience
 ======
 * Senior Data Scientist Intern, IBM, May-August 2022
