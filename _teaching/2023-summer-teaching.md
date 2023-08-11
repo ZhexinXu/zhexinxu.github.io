@@ -8,4 +8,4 @@ date: 2023-07-01
 location: "Suzhou, China"
 ---
 
-[CCNSS Website](https://ccnss.org)
+[CCNSS Website](http://ccnss.org)
