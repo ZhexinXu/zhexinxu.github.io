@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](https://github.com/ZhexinXu/zhexinxu.github.io/files/9104582/CV_BrianZXu.pdf)
-
 Work Experience
 ======
 * Senior Data Scientist Intern, IBM, May-August 2022
