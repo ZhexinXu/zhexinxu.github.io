@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhexin Brian Xu"
   avatar           : "profile.jpg"
-  bio              : "Brain and Cognitive Sciences"
-  location         : "Rochester, NY"
+  bio              : 
+  location         : 
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=632LW50AAAAJ&hl=en
   email            : brian.zx.xu{at}gmail.com
