@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -11,11 +11,12 @@ redirect_from:
 
 Work Experience
 ======
+* Postdoctoral Fellow, Harvard Medical School, 2024-present
 * Senior Data Scientist Intern, IBM, 2022
 
 Education
 ======
-* PhD, Brain & Cognitive Sciences, jointly in Computer Science, University of Rochester, 2023
+* PhD, University of Rochester, 2023
 
 Publications
 ======
@@ -35,3 +36,4 @@ Teaching
   <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
