@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "zxbrianxu"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  false # (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-26K20H6KDL"
+    tracking_id          :  
 
 
 # Site Author
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : zxbrianxu
+  twitter          : 
   vine             :
   weibo            :
   xing             :
